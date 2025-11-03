@@ -1,8 +1,11 @@
 # Ignore everything
-*
+**
 
-# But keep .gitignore itself
+# Keep folders
+!*/
+
+# Keep this file
 !.gitignore
 
-# Keep all C# scripts
+# Keep all C# scripts in any subfolder
 !*.cs
