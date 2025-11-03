@@ -1,8 +1,8 @@
 # Ignore everything
 *
 
-# But include .gitignore itself
+# But keep .gitignore itself
 !.gitignore
 
-# Include all C# scripts
+# Keep all C# scripts
 !*.cs
